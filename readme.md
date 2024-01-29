@@ -1,0 +1,1 @@
+Repositório criado com o intuito de armazenar conteúdo visto no curso de "Curso de Python 3 do básico ao avançado - com projetos reais" do professor Luiz Otávio Miranda.
